@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidTvLauncher.iml" filepath="$PROJECT_DIR$/AndroidTvLauncher.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidTvLauncher.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidTvLauncher.app.iml" />
     </modules>
   </component>
 </project>
